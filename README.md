@@ -1,2 +1,5 @@
 # MARK
 CODING AND PROGRAMMING (PYTHON)
+
+Streamlit Ver. 1.32.0
+Python Ver. 3.12.4
